@@ -1,6 +1,6 @@
 # TaskKeeper
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Run `npm install` for install node modules.
 
 ## Development server
 
